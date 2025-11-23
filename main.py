@@ -43,7 +43,7 @@ def pix_sort(inp_path,out_path,low,high,vertical=True):
     print("Pixels Sorted")
 
 if __name__=="__main__":
-    parser=argparse.ArgumentParser(desc="Interval Based Pixel Sorter")
+    parser=argparse.ArgumentParser(description="Interval Based Pixel Sorter")
     parser.add_argument("input_image",help="path to input image")
     parser.add_argument("-o","--output",help="path to save output image",default="output.png")
     parser.add_argument("--v",action="store_true",help="vertical sorting(default:horizontal")
