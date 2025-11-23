@@ -56,4 +56,4 @@ python main.py input.jpg -o output.png --low 100 --high 255
 ## Screenshots
 | Input    | Default Output | Vertical Output |
 | -------- | -------------- | --------------- |
-| ![input](https://github.com/j1gss/Luminance_Image_Obfuscation/blob/master/input.jpg)  | ![Default Output](https://github.com/j1gss/Luminance_Image_Obfuscation/blob/master/output.jpg)  | ![Vertical Output](https://github.com/j1gss/Luminance_Image_Obfuscation/blob/master/v_output.jpg)  |
+| ![input](https://github.com/j1gss/Luminance_Image_Obfuscation/blob/master/ss/input.jpg)  | ![Default Output](https://github.com/j1gss/Luminance_Image_Obfuscation/blob/master/ss/output.jpg)  | ![Vertical Output](https://github.com/j1gss/Luminance_Image_Obfuscation/blob/master/ss/v_output.jpg)  |
