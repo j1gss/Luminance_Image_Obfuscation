@@ -47,7 +47,7 @@ if __name__=="__main__":
     parser.add_argument("input_image",help="path to input image")
     parser.add_argument("-o","--output",help="path to save output image",default="output.png")
     parser.add_argument("--v",action="store_true",help="vertical sorting(default:horizontal")
-    parser.add_argument("--low",type=int,default=25,help="lower threshold")
+    parser.add_argument("--low",type=int,default=0,help="lower threshold")
     parser.add_argument("--high",type=int,default=250,help="upper threshold")
     args=parser.parse_args()
 
