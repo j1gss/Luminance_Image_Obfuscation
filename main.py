@@ -51,8 +51,8 @@ if __name__=="__main__":
     parser.add_argument("--high",type=int,default=250,help="upper threshold")
     args=parser.parse_args()
 
-pix_sort(
-    inp_path=args.input_image,
+    pix_sort(
+    inp_path=args.input_img,
     out_path=args.output,
     low=args.low,
     high=args.high,
