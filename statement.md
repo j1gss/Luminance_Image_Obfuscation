@@ -30,6 +30,6 @@ This is a tool for technical users worried with data security and dataset integr
 - **Multi Directional Processing:** Allows **Vertical** (gravity/drip effect) and **Horizontal** (wind/streak effect) ways of sorting the image in case of various image composition.
 
 ### 5.Future Scope (Intended Improvements)
-- **Support Real Time Webcams:Optimize the algorithm to live video feeds for real time privacy masking.
+- **Support Real Time Webcams:** Optimize the algorithm to live video feeds for real time privacy masking.
 - **Face Detection Integration:** Integration of OpenCV that makes the system detect faces automatically and apply the pixel sort only to the face bounding box and elimintes the problem of user having to guess the value of threshold.
 - **Steganography:** It is also possible to add an extra parameter to reverse a sort(decrypt), in case a special key is provided,allowing for safe data transfer encrypted in the glitch art.
