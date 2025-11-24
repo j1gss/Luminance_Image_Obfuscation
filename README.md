@@ -48,7 +48,7 @@ python main.py input.jpg -o output.png
 ```
 python main.py input.jpg -o v_output.png --v
 ```
-**Test Case 3:High Contrast** *Uses targeted sorting of images of very high brightness(Luminance 100-255*
+**Test Case 3:High Contrast** *Uses targeted sorting of images of very high brightness(Luminance 100-255)*
 ```
 python main.py input.jpg -o output.png --low 100 --high 255
 ```
